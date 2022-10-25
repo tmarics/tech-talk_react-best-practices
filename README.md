@@ -1,3 +1,6 @@
+# Video for the repo:
+https://drive.google.com/file/d/1nowIbnKgUNt_mwFctcO2WHdlJkidrJhA/view?usp=sharing
+
 # Topics:
 
 1. Components structuring
